@@ -7,14 +7,14 @@ epidemiology as a means to engage pharmacies in harm reduction efforts."
 
 ---
 
-Directory structure:
+### Directory structure
 
-- *data/*: contains the input datasets used in the publication, including the
+- **data/**: contains the input datasets used in the publication, including the
   anonymized city and sampling shapefile, randomly generated pharmacies, and
   anonymized pilot results.
-- *src/*: contains one jupyter notebook that reproduces all maps presented
+- **src/**: contains one jupyter notebook that reproduces all maps presented
   in the publication.
-- *plots/*: directory where the plots generated in source code are written 
+- **plots/**: directory where the plots generated in source code are written 
   to. The individual maps which were assembled into the publication figure
   are committed in this repo.
 
